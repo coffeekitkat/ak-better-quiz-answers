@@ -1,6 +1,8 @@
 # ak-better-quiz-answers
 
-Aura Kingdom Quiz answers with basic fuzzy search.
+Aura Kingdom Quiz answers with basic fuzzy search. 
+
+Demo: csb-d1ub7k.netlify.app/
 
 ![preview](https://user-images.githubusercontent.com/82024111/167463271-3b81f770-a8c7-4094-b888-00fc8f5e3a91.gif)
 
