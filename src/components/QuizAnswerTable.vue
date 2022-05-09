@@ -100,7 +100,6 @@ export default {
 
     quizFilteredSuggestion() {
       const query = this.searchTerm.toLowerCase();
-      const multiQuery = query.split(";");
 
       return this.quizAnswer.filter((q) => {
         return (
