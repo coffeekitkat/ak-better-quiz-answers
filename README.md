@@ -4,6 +4,9 @@ Aura Kingdom Quiz answers with basic fuzzy search.
 
 ![preview](https://user-images.githubusercontent.com/82024111/167463271-3b81f770-a8c7-4094-b888-00fc8f5e3a91.gif)
 
+
+CodeSandbox: https://codesandbox.io/s/github/coffeekitkat/ak-better-quiz-answers
+
 ## Project setup
 
 ```
